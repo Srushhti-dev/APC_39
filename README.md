@@ -1,4 +1,4 @@
-# Srushhti Patil 🐍
+# Srushhti Patil 
 
 A collection of Python experiments and practical assignments for academic learning and programming practice.
 
