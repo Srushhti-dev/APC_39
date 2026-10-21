@@ -1,0 +1,1 @@
+def register_member(name,member_id): return {'id':member_id,'name':name}\n

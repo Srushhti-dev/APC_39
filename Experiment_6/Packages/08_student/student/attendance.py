@@ -1,0 +1,1 @@
+def eligible(present,total): return (present/total)*100 >= 75\n

@@ -1,0 +1,1 @@
+def add_record(patient_id,diagnosis): return {'patient_id':patient_id,'diagnosis':diagnosis}\n

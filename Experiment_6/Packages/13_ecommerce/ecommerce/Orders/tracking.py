@@ -1,0 +1,1 @@
+def track_order(o): print('Order ID:',o['id']); print('Status:',o['status'])\n

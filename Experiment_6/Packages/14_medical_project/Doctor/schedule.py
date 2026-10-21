@@ -1,0 +1,1 @@
+def show_schedule(d): print('Doctor:',d['name']); print('Specialization:',d['specialization']); print('Available: 10 AM - 2 PM')\n

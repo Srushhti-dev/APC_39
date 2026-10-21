@@ -1,0 +1,1 @@
+def display_record(r): print('Patient ID:',r['patient_id']); print('Diagnosis:',r['diagnosis'])\n

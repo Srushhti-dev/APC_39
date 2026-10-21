@@ -1,0 +1,1 @@
+def register_patient(p): print('Patient registered:',p)\n

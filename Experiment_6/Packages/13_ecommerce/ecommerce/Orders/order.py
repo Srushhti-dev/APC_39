@@ -1,0 +1,1 @@
+def create_order(i,p): return {'id':i,'product':p,'status':'Placed'}\n

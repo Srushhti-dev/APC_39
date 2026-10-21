@@ -1,0 +1,1 @@
+def calculate_bill(consultation,medicine): return consultation+medicine\n

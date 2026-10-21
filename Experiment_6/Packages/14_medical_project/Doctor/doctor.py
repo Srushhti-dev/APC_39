@@ -1,0 +1,1 @@
+def create_doctor(i,n,s): return {'id':i,'name':n,'specialization':s}\n

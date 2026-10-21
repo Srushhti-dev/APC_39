@@ -1,0 +1,1 @@
+def display_customer(c): print('Customer ID:',c['id']); print('Name:',c['name'])\n

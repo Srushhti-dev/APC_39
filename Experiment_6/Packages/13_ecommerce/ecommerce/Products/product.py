@@ -1,0 +1,1 @@
+def create_product(i,n,p): return {'id':i,'name':n,'price':p}\n

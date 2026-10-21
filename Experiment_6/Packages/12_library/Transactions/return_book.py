@@ -1,0 +1,1 @@
+def return_book(book): book['available']=True\n

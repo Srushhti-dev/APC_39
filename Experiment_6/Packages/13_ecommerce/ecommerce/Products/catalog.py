@@ -1,0 +1,1 @@
+def display_products(products):\n    for p in products: print(p)\n

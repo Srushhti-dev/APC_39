@@ -1,0 +1,1 @@
+def total(marks): return sum(marks)\ndef percentage(marks): return sum(marks)/len(marks)\n

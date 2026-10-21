@@ -1,22 +1,32 @@
-PANDAS PRACTICAL ANSWERS - Q1 TO Q15
+PANDAS PRACTICALS - 15 QUESTIONS
 
-Requirements:
-1. Install Python.
-2. Install Pandas:
-   pip install pandas
+Files:
+01_students_dataframe.py  -> Question 1
+02_employees_dataframe.py  -> Question 2
+03_products_dataframe.py  -> Question 3
+04_patients_dataframe.py  -> Question 4
+05_orders_dataframe.py  -> Question 5
+06_attendance_dataframe.py  -> Question 6
+07_retail_sales.py         -> Question 7 (Retail shop)
+08_student_series.py       -> Question 8 (Student Series)
+09_employee_series.py      -> Question 9 (Employee Series)
+10_product_series.py      -> Question 10 (Product Series)
+11_patient_series.py      -> Question 11 (Patient Series)
+12_attendance_series.py    -> Question 12 (Attendance Series)
+13_students_csv.py         -> CSV students task
+14_employees_csv.py        -> CSV employees task
+15_patients_csv.py         -> CSV patients task
+16_weather_csv.py          -> CSV weather task
 
-For Q1-Q11:
-   python Q1_students_dictionary.py
-   python Q2_employees_dictionary.py
-   ...
-   python Q11_student_attendance_series.py
+The question list supplied has two items numbered 7. Therefore the programs
+are numbered sequentially in the ZIP to avoid duplicate filenames.
 
-For Q12-Q15:
-Keep the corresponding CSV file in the same folder as the Python program.
-Then run:
-   python Q12_students_csv.py
-   python Q13_employees_csv.py
-   python Q14_patients_csv.py
-   python Q15_weather_csv.py
+CSV files are included for the four CSV-based programs.
 
-The CSV files included here are sample datasets matching the column names given in the questions.
+Install Pandas:
+    pip install pandas
+
+Run a program:
+    python 01_students_dataframe.py
+
+For CSV programs, keep the corresponding CSV file in the same folder.

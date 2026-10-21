@@ -1,8 +1,7 @@
 Patient_ID,Name,Age,Gender,Disease,Medical_Expense
-101,Asha,65,F,Diabetes,60000
-102,Ravi,45,M,Fever,25000
-103,Meena,72,F,Heart Disease,90000
-104,Suresh,58,M,Asthma,40000
-105,Kiran,80,M,Diabetes,75000
-106,Priya,67,F,Asthma,55000
-107,Amit,35,M,Fever,18000
+1,Anil,65,M,Diabetes,55000
+2,Meena,45,F,Fever,12000
+3,Suresh,72,M,Heart Disease,80000
+4,Kavita,58,F,Asthma,30000
+5,Raj,67,M,Diabetes,62000
+6,Sunita,81,F,Fever,51000

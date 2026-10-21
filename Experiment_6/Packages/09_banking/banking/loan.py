@@ -1,0 +1,1 @@
+def calculate_loan(p,r,y):\n    i=p*r*y/100\n    return i,p+i\n

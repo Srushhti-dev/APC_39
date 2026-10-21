@@ -1,0 +1,1 @@
+def create_patient(i,n,a): return {'id':i,'name':n,'age':a}\n

@@ -1,0 +1,1 @@
+def issue_book(book):\n    if book['available']:\n        book['available']=False\n        return True\n    return False\n

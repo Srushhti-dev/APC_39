@@ -1,0 +1,3 @@
+101,Amit,IT,50000
+102,Priya,HR,45000
+103,Rahul,Finance,60000

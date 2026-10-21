@@ -1,0 +1,1 @@
+def make_payment(amount): print('Payment successful:',amount)\n
